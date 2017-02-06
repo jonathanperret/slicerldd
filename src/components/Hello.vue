@@ -13,7 +13,10 @@ export default {
   components: {Files},
   data () {
     return {
-      files: [{filename: 'test'}],
+      files: [
+        {filename: 'test', current: false},
+        {filename: 'test2', current: false}
+      ],
       msg: 'Welcome to my web slicer !!!!!!!!'
     };
   }
