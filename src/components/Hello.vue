@@ -10,9 +10,9 @@ export default {
   data () {
     return {
       msg: 'Welcome to my web slicer !!!!!!!!'
-    }
+    };
   }
-}
+};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
