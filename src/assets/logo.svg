@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="117 76 273 248" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <pattern id="pattern-0" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <path d="M 0 0 L 50 0 L 50 100 L 0 100 Z" style="fill: black;"/>
+    </pattern>
+  </defs>
+  <path d="M 245.615 81.558 L 359.248 170.177 L 315.844 313.564 L 175.386 313.564 L 131.982 170.177 Z" style="fill: none; stroke: rgb(0, 0, 0);" bx:shape="n-gon 245.615 209.808 119.481 128.25 5 0 1@1ab368de"/>
+  <path d="M 247.077 107.865 L 331.52 176.538 L 299.266 287.654 L 194.888 287.654 L 162.634 176.538 Z" style="fill: none; stroke: rgb(0, 0, 0);" bx:shape="n-gon 247.077 207.25 88.789 99.385 5 0 1@5f4460a1"/>
+  <path d="M 252.558 131.981 L 310.243 183.233 L 288.21 266.161 L 216.906 266.161 L 194.873 183.233 Z" style="fill: none; stroke: rgb(0, 0, 0);" bx:shape="n-gon 252.558 206.154 60.654 74.173 5 0 1@09a78b5e"/>
+  <path d="M 248.173 158.289 L 289.694 193.899 L 273.835 251.517 L 222.511 251.517 L 206.652 193.899 Z" style="fill: none; stroke: rgb(0, 0, 0);" bx:shape="n-gon 248.173 209.824 43.658 51.535 5 0 1@bf17fda7"/>
+  <path d="M 593 269.327 L 617.325 294.322 L 608.034 334.765 L 577.966 334.765 L 568.675 294.322 Z" transform="matrix(0.999999, 0, 0, 1, -343.364679, -92.769385)" style="fill: none; stroke: rgb(0, 0, 0);" bx:shape="n-gon 593 305.5 25.577 36.173 5 0 1@bcaaf846"/>
+  <path d="M 131.981 170.711 L 245.981 208.712 L 359.25 170.711" style="fill: none; stroke: rgb(0, 0, 0);"/>
+  <path d="M 243.788 82.288 L 246.712 207.981 L 175.096 312.481" style="fill: none; stroke: rgb(0, 0, 0);"/>
+  <path d="M 315.404 313.212 L 246.712 206.519" style="fill: none; stroke: rgb(0, 0, 0);"/>
+  <rect x="127.596" y="121.75" width="249.923" height="8.038" style="fill: rgb(255, 255, 255);"/>
+  <rect transform="matrix(1, 0, 0, 1.000003, -183.711884, -10.520023)" x="314.962" y="223.616" width="260.885" height="5.846" style="fill: rgb(255, 255, 255);"/>
+  <rect x="148.058" y="260.596" width="227.269" height="8.038" style="fill: rgb(255, 255, 255);"/>
+  <rect x="114.442" y="153.173" width="269.654" height="10.231" rx="5.115" ry="5.115" style="fill: rgb(255, 255, 255);"/>
+</svg>
