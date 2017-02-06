@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <files :files="files"></files>
   </div>
 </template>
 
@@ -9,6 +10,7 @@ export default {
   name: 'hello',
   data () {
     return {
+      files: [{filename: 'test'}],
       msg: 'Welcome to my web slicer !!!!!!!!'
     };
   }
