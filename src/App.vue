@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.svg">
+    <img class="logo" src="./assets/logo.svg">
     <router-view></router-view>
   </div>
 </template>
@@ -19,5 +19,9 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+
+.logo {
+  width: 50%;
 }
 </style>

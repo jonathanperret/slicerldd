@@ -9,7 +9,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      msg: 'Welcome to my slicer !!!!!!!!'
+      msg: 'Welcome to my web slicer !!!!!!!!'
     }
   }
 }
