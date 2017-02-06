@@ -6,12 +6,12 @@
 </template>
 <script>
 export default {
-  name: 'file'
+  name: 'file',
   props: ['file'],
   methods: {
-    renderForm: function() {
+    renderForm: function () {
       this.$emit('changeCurrent', this.file);
     }
   }
-});
+};
 </script>

@@ -5,20 +5,17 @@
 </template>
 
 <script>
+import File from 'components/File';
 export default {
-    name: 'files',
-    props: ['files'],
-    methods: {
-        changeCurrent: function(e) {
-            this.files.forEach(function(file) {
-                if (file.current) {
-                    file.current = false;
-                }
-                if (file == e) {
-                    file.current = true;
-                }
-            })
-        }
+  name: 'files',
+  components: {File},
+  props: ['files'],
+  methods: {
+    changeCurrent: function (e) {
+      this.files.forEach(function (file) {
+        file.current = (file === e);
+      });
     }
+  }
 };
 </script>

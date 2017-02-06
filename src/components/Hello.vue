@@ -6,8 +6,11 @@
 </template>
 
 <script>
+import Files from 'components/Files';
+
 export default {
   name: 'hello',
+  components: {Files},
   data () {
     return {
       files: [{filename: 'test'}],
