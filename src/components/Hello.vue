@@ -2,6 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <files :files="files"></files>
+    <canvas width="400" height="300" ref="canvas">
+    </canvas>
   </div>
 </template>
 
@@ -19,6 +21,9 @@ export default {
       ],
       msg: 'Welcome to my web slicer !!!!!!!!'
     };
+  },
+
+  mounted () {
   }
 };
 </script>
@@ -41,5 +46,9 @@ li {
 
 a {
   color: #42b983;
+}
+
+canvas {
+  border: 3px solid red;
 }
 </style>
